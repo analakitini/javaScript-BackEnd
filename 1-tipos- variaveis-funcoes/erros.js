@@ -4,7 +4,7 @@
 // erro: SyntaxError: Missing initializer in const declaration
 
 // console.log(numero // errado
-// console.log(numero) // certo (fechamos os parênteses)
+// console.log(numero) // certo (fechamos os parênteses)CXXXX
 
 // erro: SyntaxError: missing ) after argument list
 
