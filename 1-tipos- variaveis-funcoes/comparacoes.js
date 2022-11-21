@@ -18,7 +18,3 @@ console.log(numero === texto)
 //typeof
 console.log(typeof numero)
 console.log(typeof texto)
-
-// EXPRESSÕES E OPERADORES 
-
-// https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_operators
